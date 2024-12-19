@@ -3,7 +3,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
     <name>OSPlugin</name>
     <js-module name="OSPlugin" src="www/OSPlugin.js">
-        <clobbers target="OSPlugin"/>
+        <clobbers target="cordova.plugins.OSPlugin"/>
     </js-module>
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
