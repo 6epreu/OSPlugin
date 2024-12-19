@@ -15,3 +15,4 @@
         <source-file src="src/android/com/example/osplugin/OSPlugin.java" target-dir="src/cordova-os-plugin/OSPlugin"/>
     </platform>
 </plugin>
+
